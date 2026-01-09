@@ -17,8 +17,8 @@ The portfolio demonstrates the use of **HTML5 semantic elements**, **CSS for lay
 ---
 
 ## Technologies Used
-- **HTML5** – for page structure and semantic markup.
-- **CSS3** – for styling, layout, and responsive design using media queries.
+- **HTML** – for page structure and semantic markup.
+- **CSS** – for styling, layout, and responsive design using media queries.
 - **JavaScript** – for interactive features like the hamburger menu toggle.
 
 ---
