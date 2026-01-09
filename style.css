@@ -1,4 +1,4 @@
-/* Google Font */
+
 body {
   font-family: 'Roboto', sans-serif;
   margin: 0;
@@ -8,14 +8,14 @@ body {
   scroll-behavior: smooth;
 }
 
-/* Container */
+
 .container {
   max-width: 1000px;
   margin: auto;
   padding: 20px;
 }
 
-/* Header */
+
 header {
   background: #0d1b2a;
   color: #fff;
@@ -60,7 +60,7 @@ nav a:hover {
   cursor: pointer;
 }
 
-/* Sections */
+
 section {
   padding: 60px 20px;
 }
@@ -76,7 +76,7 @@ section h2 {
   color: #0d1b2a;
 }
 
-/* Project Cards */
+
 .card {
   background: #fff;
   padding: 20px;
@@ -105,7 +105,7 @@ section a:hover {
   text-decoration: underline;
 }
 
-/* Footer */
+
 footer {
   text-align: center;
   padding: 20px;
@@ -113,7 +113,7 @@ footer {
   color: white;
 }
 
-/* Mobile */
+
 @media (max-width: 768px) {
   nav {
     display: flex;
@@ -128,7 +128,7 @@ footer {
   }
 
   nav.active {
-    max-height: 500px; /* smooth slide-down */
+    max-height: 500px; 
   }
 
   nav a {
@@ -141,3 +141,4 @@ footer {
     display: block;
   }
 }
+
